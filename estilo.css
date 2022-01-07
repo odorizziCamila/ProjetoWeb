@@ -1,0 +1,8 @@
+.marcador{
+    background: rgb(238, 78, 166);
+    border: 1px solid red;
+}
+.marcadorGeral{
+    background: rgb(78, 187, 238);
+    border: 1px solid #d0ff00;
+}
